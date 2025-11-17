@@ -19,15 +19,13 @@ listing:
 
 ## Lien vers le code github 
 
-- [Github](https://github.com/DataScience-ACO-2025/ML4LifeSciences_ACO_2025)
+- [Github](https://github.com/BatchOfKittens/DeepMeows)
 
 ## Lien vers les slides
 
-- [Slides](https://github.com/DataScience-ACO-2025/ML4LifeSciences_ACO_2025)
+- [Slides](https://github.com/BatchOfKittens/DeepMeows/slides/presentation_DeepMeow.pdf)
 
 # Deep Meow
-
-![](chat.jpg)
 
 ## Contexte : 
 
